@@ -14,6 +14,10 @@
   *Software & Tools: HTML, CSS, MySQL, MS Office (MS Excel, MS Word, MS PowerPoint, MS Project)*  
   *Languages: PHP, SQL*  
 5. __Code examples:__
-6. __Experience:__
-7. __Education:__
+6. __Experience:__  
+  *codeacademy ([profile](https://www.codecademy.com/profiles/net9429745985)): Introduction to HTML, Learn CSS.*  
+  *htmlacademy ([profile](https://htmlacademy.ru/profile/id1146329)): HTML Basics, CSS Basics.*  
+7. __Education:__  
+  *I am a 4th-year student of the Faculty of Economics of BSU, and my speciality is Business Informatics.  
+  The average mark at the university is 9.7, therefore, from the third year I study on a budgetary basis.*
 8. __English:__
