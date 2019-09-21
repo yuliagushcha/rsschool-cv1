@@ -20,4 +20,5 @@
 7. __Education:__  
   *I am a 4th-year student of the Faculty of Economics of BSU, and my speciality is Business Informatics.  
   The average mark at the university is 9.7, therefore, from the third year I study on a budgetary basis.*
-8. __English:__
+8. __English:__  
+  *My English level is between A2 and B1. I began to study English from the first grade of the school.*
