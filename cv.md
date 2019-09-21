@@ -13,7 +13,25 @@
 4. __Skills:__  
   *Software & Tools: HTML, CSS, MySQL, MS Office (MS Excel, MS Word, MS PowerPoint, MS Project)*  
   *Languages: PHP, SQL*  
-5. __Code examples:__
+5. __Code examples:__  
+    ```html
+      <h1 class="code_name">Code example</h1>
+        <h4>Are you happy today? :)</h4>
+        <form>
+          <p>What is your mood?</p>
+          <div>
+            <input type="radio" id="goodmood" name="mood" value="good">
+            <label for="goodmood">Good</label><br>
+            <input type="radio" id="normalmood" name="mood" value="normal">
+            <label for="normalmood">Normal</label><br>
+            <input type="radio" id="badmood" name="mood" value="bad">
+            <label for="badmood">Bad</label><br>
+          </div>
+          <div>
+            <button type="submit">Submit</button>
+          </div>
+        </form>
+    ```
 6. __Experience:__  
   *codeacademy ([profile](https://www.codecademy.com/profiles/net9429745985)): Introduction to HTML, Learn CSS.*  
   *htmlacademy ([profile](https://htmlacademy.ru/profile/id1146329)): HTML Basics, CSS Basics.*  
